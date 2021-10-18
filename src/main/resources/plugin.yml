@@ -1,0 +1,7 @@
+name: AquaClanchat
+version: '${version}'
+main: undefined.aquasmp.aquaclanchat.AquaClanchat
+api-version: 1.16
+prefix: AquaClanchat
+authors: [ Eishaar, WolfyFX ]
+description: Clanchat plugin for the Aqua SMP
